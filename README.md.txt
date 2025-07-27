@@ -1,21 +1,20 @@
-README.md
 # 💖 Barbie-Themed Developer Portfolio - Aashi Rajput
 
 [Live Website 🌐](https://aashur88.github.io/Barbie-portfolio/)
 
-Welcome to my sparkly, fully animated, and glam Barbie-themed portfolio!  
-I'm Aashi Rajput, a B.Tech AIML student, passionate about building clean, creative web experiences using HTML, CSS, JS, and a splash of pink! 💅
+Welcome to my sparkly, animated, and glam Barbie-themed portfolio!  
+I'm Aashi Rajput, a B.Tech AIML student who loves building fun, user-friendly web experiences using HTML, CSS, JS, and a splash of pink! 💅
 
 ---
 
 ## 🎀 What’s Inside?
 
-✨ Custom animated cursor with glitter trail  
+✨ Animated custom cursor with glitter trail  
 ✨ Sparkle effects on click using GSAP  
-✨ Scroll-triggered floating fairy sparkles  
+✨ Floating fairy dust on scroll  
 ✨ Barbie-style shimmer loader  
-✨ Responsive layout for all screen sizes  
-✨ Projects and skills tailored to my real resume
+✨ Responsive layout  
+✨ Real projects and resume highlights
 
 ---
 
@@ -24,23 +23,22 @@ I'm Aashi Rajput, a B.Tech AIML student, passionate about building clean, creati
 - JavaScript (Beginner)
 - GSAP (GreenSock Animation Platform)
 - VanillaTilt.js
-- GitHub Pages for deployment
+- GitHub Pages for hosting
 
 ---
 
-## 🧚‍♀️ Projects Featured
+## 📁 Projects
 - 🎟️ Queue Management System — Java + SQL mini project
-- 🛒 Amazon Clone — Frontend project built using HTML/CSS/JS
+- 🛒 Amazon Clone — Frontend project using HTML/CSS/JS
 
 ---
 
-## 📞 Connect with Me
-
-- 📧 [aashirajput62335@gmail.com](mailto:aashirajput62335@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aashirajput)
-- 🐱 [GitHub](https://github.com/aashur88)
+## 📞 Contact Me
+📧 Email: *Available upon request*  
+🔗 [LinkedIn](https://linkedin.com/in/aashirajput)  
+🐱 [GitHub](https://github.com/aashur88)
 
 ---
 
 > 💬 *“Coding is cool. Coding in pink? Iconic.”*  
-> — Aashi Rajput 🌸
+> — Aashi Rajput
